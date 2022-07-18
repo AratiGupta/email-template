@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+table, tbody, tr,td ,th, img{
+    margin: 0;
+    padding: 0;
+}
+
+/* ul li {
+    list-style-position: inside;
+} */
+
+.container{
+    background-color: #EFF7FF;
+    height: 100%;
+    width: 100%;
+    max-width: 630px;
+    margin: 0 auto;
+    padding: 70px;
+}
+
+.wrapper{
+    background-color: white;
+    padding: 42px;
+    max-width: 546px;
+    margin: 0 auto;
+    border-radius: 4.86111px;
+}
+
+
+
+img{
+    display: inline-block;
+}
+
+.center td{
+    text-align: center;
+}
